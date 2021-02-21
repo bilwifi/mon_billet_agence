@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "mon-billet-agence",
+    "slug": "snack-1a23984d-8720-414a-9753-e090ef471250",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logomonbillet.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logomonbillet.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.mon_billet"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
